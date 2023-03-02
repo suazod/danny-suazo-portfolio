@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/danny-suazo-portfolio/static/css/main.4dbfd621.css",
-    "main.js": "/danny-suazo-portfolio/static/js/main.a3c3d205.js",
+    "main.js": "/danny-suazo-portfolio/static/js/main.f45f972d.js",
     "static/media/halloween.gif": "/danny-suazo-portfolio/static/media/halloween.a61630c8fd5981356825.gif",
     "static/media/audiobuzz.gif": "/danny-suazo-portfolio/static/media/audiobuzz.4f17a3b518a1ea1ab4e3.gif",
     "static/media/circles.mp4": "/danny-suazo-portfolio/static/media/circles.e2e7de77987ed3e60717.mp4",
@@ -43,10 +43,10 @@
     "static/media/petential_four.png": "/danny-suazo-portfolio/static/media/petential_four.ad45d73ec2f32a95a080.png",
     "index.html": "/danny-suazo-portfolio/index.html",
     "main.4dbfd621.css.map": "/danny-suazo-portfolio/static/css/main.4dbfd621.css.map",
-    "main.a3c3d205.js.map": "/danny-suazo-portfolio/static/js/main.a3c3d205.js.map"
+    "main.f45f972d.js.map": "/danny-suazo-portfolio/static/js/main.f45f972d.js.map"
   },
   "entrypoints": [
     "static/css/main.4dbfd621.css",
-    "static/js/main.a3c3d205.js"
+    "static/js/main.f45f972d.js"
   ]
 }
