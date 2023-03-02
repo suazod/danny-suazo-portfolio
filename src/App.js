@@ -20,7 +20,7 @@ function App() {
       <BrowserRouter>
         <Routes>
 
-          <Route path="/" element={<Welcome />} exact />
+          <Route path="/danny-suazo-portfolio" element={<Welcome />} exact />
           <Route path="/About" element={<About />} />
           <Route path="/Portfolio" element={<Works />} />
           <Route path="/AudioBuzz" element={<AudioBuzz />} />
