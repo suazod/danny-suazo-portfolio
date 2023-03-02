@@ -9,7 +9,7 @@ const Navigation = () => (
             </button>
 
             <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
-                <div className="nameLogo"><span className="lname"><Link to="/">Suazo<span className="fname">.</span></Link></span></div>
+                <div className="nameLogo"><span className="lname"><Link to="/danny-suazo-portfolio">Suazo<span className="fname">.</span></Link></span></div>
                 <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
                     <li className="nav-item active">
                         <Link to="/about">About</Link>
